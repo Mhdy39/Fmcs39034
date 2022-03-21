@@ -1,0 +1,44 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    text-align: right;
+    color: rgb(185, 122, 45);
+}
+a{
+    text-align: right;
+    font-size: 30px;
+    color: rgb(177, 120, 50);
+}
+footer{
+    font-size: 50px;
+    color: rgb(85, 76, 65);
+}
+h2{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(185, 122, 45);
+
+}
+p{
+font-size: 40px;
+color:rgb(185, 122, 45) ;
+
+}
+h3{
+    font-size: 50px;
+    color: rgb(245, 162, 60);
+}
+ol{
+    font-size: 50px;
+    color: rgb(185, 122, 45);
+}
+li{
+    font-size: 40px;
+    color: rgb(77, 46, 8);
+}
+img:hover{
+    box-shadow: black 0px 0px 5px 0px;
+    transform: scale(1.1);
+}

@@ -1,0 +1,38 @@
+body{
+    background-image: no-repeat;
+    background-size: 100%;
+    image-rendering: pixelated;
+    background-attachment: fixed;
+}
+h1{
+    text-shadow: 40px;
+    font-size: 30px;
+    text-align: right;
+    color: rgb(156, 120, 132);
+}
+p{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 30px;
+    text-transform: uppercase;
+    color: rgb(226, 176, 115);
+}
+img{
+    image-rendering: pixelated;
+}
+button{
+    padding: 5px;
+}
+img:hover{
+    box-shadow: black 0px 0px 5px 0px;
+    transform: scale(1.1);
+}
+h2{
+    text-align: right;
+    font-size: 30px;
+    color: rgb(226, 176, 115);
+    text-shadow: 40px;
+}
+a{
+    color: rgb(226, 176, 115);
+}

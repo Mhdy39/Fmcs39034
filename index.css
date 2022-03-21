@@ -1,0 +1,37 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    font-style: italic;
+    color:rgb(245, 162, 60) ;
+}
+h2{
+    text-align: right;
+}
+a{
+    text-align: right;
+    font-size: 30px;
+    color: rgb(177, 120, 50);
+}
+ol{
+    color: rgb(124, 89, 46);
+}
+li{
+    color: rgb(163, 115, 57);
+    font-style: italic;
+    text-decoration-style: wavy;
+}
+h3{
+    font-weight: 400;
+    text-align: center;
+    color: rgb(139, 104, 58);
+}
+img{
+    image-rendering: pixelated;
+    image-orientation: from-image;
+}
+footer{
+    font-size: 50px;
+    color: rgb(85, 76, 65);
+}
